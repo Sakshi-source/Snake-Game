@@ -1,1 +1,1 @@
-# building-snakes-game-tutorial
+# building-snakes-game
